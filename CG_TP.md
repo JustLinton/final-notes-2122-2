@@ -6,8 +6,8 @@
   - 帧缓存
 - 光栅图形学
   - flood-fill填充算法
-  - 扫描线填充算法+zbuffer（**多边形扫描转换**）
-  - **bresenham画线**画圆算法
+  - ~~扫描线填充算法+zbuffer（**多边形扫描转换**）~~
+  - ~~**bresenham画线**画圆算法~~
   - **Cohen-Sutherland裁剪算法**
   - liang-barsky裁剪算法
   - 窗口裁剪多边形算法
